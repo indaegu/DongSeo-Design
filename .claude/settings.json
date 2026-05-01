@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:bangbangmall.com)",
+      "WebFetch(domain:intercrewkorea.co.kr)",
+      "WebFetch(domain:allaboutnew.co.kr)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"c:\\\\workspace\\\\DongSeo-Design\\\\assets\\\\logos\")"
+    ]
+  }
+}

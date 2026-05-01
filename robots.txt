@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# 검색엔진 크롤러 명시 허용 — 한국 시장 특화 (Naver, Daum, Bing, Google)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://indaegu.github.io/DongSeo-Design/sitemap.xml
+
+# Host (참고용)
+Host: https://indaegu.github.io/DongSeo-Design/

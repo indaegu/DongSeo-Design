@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemaps-image/1.1">
+
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://indaegu.github.io/DongSeo-Design/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://indaegu.github.io/DongSeo-Design/" />
+    <image:image>
+      <image:loc>https://indaegu.github.io/DongSeo-Design/assets/dongseo_design_brand_image.svg</image:loc>
+      <image:title>동서 디자인 브랜드 이미지</image:title>
+      <image:caption>동서 디자인 (DongSeo Design) — 백화점·아울렛·마트 매장 인테리어 전문</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 단일 페이지 내 주요 섹션도 명시 (Google 사이트링크 인덱싱 도움) -->
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#about</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#ceo</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#business</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#process</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#channels</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#partners</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#projects</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#showcase</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#timeline</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#strengths</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://indaegu.github.io/DongSeo-Design/#contact</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
